@@ -1,19 +1,15 @@
 # Hi 👋, I'm Atefeh Hemmati
 A passionate **Front-End Developer** with a knack for crafting beautiful, responsive, and user-friendly web experiences. I love blending creativity with code to bring ideas to life!
 
----
-
 ## 🌟 About Me
 - 💻 Specializing in modern front-end technologies like React, and TypeScript
 - 🎨 Enthusiastic about UI/UX design and creating pixel-perfect interfaces
 - 🌱 Currently exploring Python for data science and machine learning
 
----
 
 ## 📫 Contact Me
 - **Email**: [atefeh.hemmati.97@gmail.com](mailto:atefeh.hemmati.97@gmail.com)
 
----
 
 ## 🛠️ Languages and Tools
 
@@ -64,14 +60,11 @@ A passionate **Front-End Developer** with a knack for crafting beautiful, respon
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack)
 
----
 
 ## 🚀 What I’m Working On
 - Building responsive web applications with React and Next.js
 - Exploring Python for machine learning and data visualization
 - Enhancing my UI/UX skills with Figma and Adobe XD
-
----
 
 ## 🤝 Let’s Connect!
 Feel free to reach out for collaboration, questions, or just to chat about tech!
