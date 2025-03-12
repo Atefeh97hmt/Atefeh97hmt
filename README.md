@@ -2,7 +2,7 @@
 A passionate Front-End developer.
 
 ## 📫 Contact Me
-- Email: Hemmati.atefeh97@gmail.com
+- Email: Atefeh.hemmati.97@gmail.com
 
 ## Languages and Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
