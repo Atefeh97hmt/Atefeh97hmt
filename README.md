@@ -67,4 +67,4 @@ A passionate **Front-End Developer** with a knack for crafting beautiful, respon
 - Enhancing my UI/UX skills with Figma and Adobe XD
 
 ## 🤝 Let’s Connect!
-Feel free to reach out for collaboration, questions, or just to chat about tech!
+Feel free to reach out for collaboration, or questions!
